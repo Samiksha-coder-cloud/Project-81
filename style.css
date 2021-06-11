@@ -1,9 +1,9 @@
 h1 {
     font-size: 40px;
-    color:red;
+    color:rgb(16, 20, 235);
 }
 
-body_background {
+.body_background {
     text-align: center;
     background-image: url("bg1.jpg");
     background-position: center;
@@ -12,6 +12,6 @@ body_background {
 
 #myCanvas {
     border-width: 10px;
-    background-color: white;
+    background-color:violet;
     border-style: ridge;
 }
